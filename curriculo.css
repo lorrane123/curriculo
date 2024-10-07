@@ -1,0 +1,27 @@
+  body {
+            font-family: Arial, sans-serif;
+            margin: 10;
+            padding: 10;
+            background-color: #f4f4f48e;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: rgb(255, 255, 255);
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(97, 6, 6, 0.1);
+        }
+        h1, h2 {
+            color: rgb(184, 4, 73);
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .info {
+            margin-bottom: 10px;
+        }
